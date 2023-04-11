@@ -1,6 +1,3 @@
-# Image_Filtering
-this repo contains theory and implementation of image filtering
-
 Image Filtering-
 
 Image filtering refers to the process of modifying or enhancing
