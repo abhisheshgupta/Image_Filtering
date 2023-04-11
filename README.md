@@ -8,6 +8,7 @@ features from the image or to highlight certain aspects of the image.
 Types of filters-
 
 There are several types of filters used in image filtering, including:
+
 Median filter: A type of nonlinear filter that replaces each pixel
 with the median value of its neighborhood.
 
